@@ -16,3 +16,5 @@ screen. After that in each section the user will be asked the enter the width va
 current value in miliamperes in 4 digits.
 After that the program will do the necessary computations and will output the wanted values in
 either mils or miliamperes.
+
+![resim](https://user-images.githubusercontent.com/68744286/130994339-e5b01d25-23e5-49f9-9445-58bc99ac9af5.png)
