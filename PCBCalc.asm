@@ -1,3 +1,19 @@
+;/*
+; * PCBCalc.asm
+; *
+; *  Created on: May 30, 2021
+; *      Author: Meliksah Sagun
+; *
+; *      Disclaimer:
+; *      This is a free software under the GNU license as published by the Free Software Foundation, either version 3 of the License, or any later version.
+; *      This program is published without any warranty and not responsible for any errors or omissions, or for the results obtained from the use of this information.
+; *      All information is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information,
+; *      and without warranty of any kind, express or implied.
+; *
+; *      This document was last updated on Aug 26, 2021
+; *
+; */
+
 
 .model small
 .stack 64
