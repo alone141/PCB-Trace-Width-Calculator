@@ -31,6 +31,5 @@ Main screen;
 
 ![resim](https://user-images.githubusercontent.com/68744286/130994505-5c578641-29d1-4b09-aefd-8b4493253483.png)
 
-
-![resim](https://user-images.githubusercontent.com/68744286/130994516-dfac82b8-22d3-4107-965b-43c9bbd7750f.png)
+![resim](https://user-images.githubusercontent.com/68744286/130995212-4adeeb43-d32c-4c9e-a36b-88d4ba984e5d.png)
 
