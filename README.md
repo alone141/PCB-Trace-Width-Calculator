@@ -7,9 +7,9 @@ operations are:
 
 2- Maximum current calculation from trace width in external layer
 
-3- Minimum trace width calculation from currentin internallayer
+3- Minimum trace width calculation from current in internal layer
 
-4- Minimum trace width calculation from currentin external layer
+4- Minimum trace width calculation from current in external layer
 
 User can choose the desired operation by entering corresponding number of the options on the
 screen. After that in each section the user will be asked the enter the width value in mils or the
