@@ -31,7 +31,7 @@ Main screen;
 
 ![resim](https://user-images.githubusercontent.com/68744286/130994505-5c578641-29d1-4b09-aefd-8b4493253483.png)
 
-e.g. Maximum current that can pass from an external PCB layer with 38 mils trace lenght
+e.g. Maximum current that can pass from an external PCB layer with 38 mils trace length
 
 ![resim](https://user-images.githubusercontent.com/68744286/130995212-4adeeb43-d32c-4c9e-a36b-88d4ba984e5d.png)
 
